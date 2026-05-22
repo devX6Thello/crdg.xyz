@@ -23,8 +23,6 @@ If you would like to contribute, please go over to the "Tutorials" tab on the Ex
 
 Over time, the game evolved from just regular carting to genres like [[Fish|fishing]] and [[Planter|gardening]] while still keeping the cart ride genre as it's main marketing. This led to the game's demise in popularity, as no proper advertising was created to help support the game. However, the game still kept receiving updates such as [[Bees|beekeeping]], [[Alien Summoning|alien summoning]] and tons of additional quality of life updates to upgrade the user experience.
 
-Due to the game's low popularity, no unofficial wiki had been able to create a complete source of information for the game. However, this wiki is aimed to achieve that goal and sprinkle on top additional information like advanced contraptions and tips to help you into fully understanding the game.
-
 ---
 ## Notable Pages
 
